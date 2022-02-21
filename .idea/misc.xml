@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/drawable/rounded_edittext.xml" value="0.1" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/drawable/rounded_edittext_focused.xml" value="0.1" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/drawable/rounded_edittext_states.xml" value="0.1" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/activity_employee_details.xml" value="0.264" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/address_book_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/employee_item.xml" value="0.264" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_address_book.xml" value="0.264" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_blank.xml" value="0.18229166666666666" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_employee_details.xml" value="0.2" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_employees.xml" value="0.264" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_maps.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/layout/fragment_search_employee.xml" value="0.23802083333333332" />
+        <entry key="..\:/Android-workspace/MyAddressBook_2301853962/app/src/main/res/menu/bottom_nav_bar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

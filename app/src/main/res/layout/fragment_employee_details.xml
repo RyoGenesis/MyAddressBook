@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.EmployeeDetailsFragment"
+    android:gravity="center_vertical"
+    android:paddingHorizontal="40dp">
+
+    <TextView
+        android:id="@+id/tv_emp_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textSize="18sp"
+        android:layout_marginBottom="6dp"/>
+
+    <FrameLayout
+        android:id="@+id/map_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_below="@id/tv_emp_name"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tv_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/city_pholder"
+        android:layout_below="@id/map_fragment"
+        android:layout_marginBottom="6dp"/>
+
+    <TextView
+        android:id="@+id/tv_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/phone_pholder"
+        android:layout_below="@id/tv_city"
+        android:layout_marginBottom="6dp"/>
+
+    <TextView
+        android:id="@+id/tv_member_since"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/member_since_pholder"
+        android:layout_below="@id/tv_phone"
+        android:layout_marginBottom="6dp"/>
+
+    <TextView
+        android:id="@+id/tv_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/email_pholder"
+        android:layout_below="@id/tv_member_since"/>
+
+    <TextView
+        android:id="@+id/tv_add_to_address_book"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_to_my_address_book"
+        android:layout_below="@id/tv_email"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/blue"
+        android:clickable="true"
+        android:layout_marginTop="60dp" />
+
+</RelativeLayout>
